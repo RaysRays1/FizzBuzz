@@ -1,0 +1,15 @@
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/FizzBuzzEx.csproj.AssemblyReference.cache
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/FizzBuzzEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/FizzBuzzEx.AssemblyInfoInputs.cache
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/FizzBuzzEx.AssemblyInfo.cs
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/FizzBuzzEx.csproj.CoreCompileInputs.cache
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/bin/Debug/net6.0/FizzBuzzEx
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/bin/Debug/net6.0/FizzBuzzEx.deps.json
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/bin/Debug/net6.0/FizzBuzzEx.runtimeconfig.json
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/bin/Debug/net6.0/FizzBuzzEx.dll
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/bin/Debug/net6.0/FizzBuzzEx.pdb
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/FizzBuzzEx.dll
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/refint/FizzBuzzEx.dll
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/FizzBuzzEx.pdb
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/FizzBuzzEx.genruntimeconfig.cache
+/Users/raynardbrown/repos/FizzBuzzEx/FizzBuzzEx/obj/Debug/net6.0/ref/FizzBuzzEx.dll
